@@ -33,7 +33,7 @@ const App = () => {
     }
     console.log("Click", cart);
 
-    //Update to New
+    //Update to New 123
 
     useEffect(() => {
         fetchProducts()
